@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Samy Duc
+tagline:          'French Nerd'
+description:      'Follow <a href="https://twitter.com/ricklesauceur" target="_blank">@ricklesauceur</a>.'
+url:              
+baseurl:        /deckardesunreplicante  
+
+author:
+  name:           'Samy Duc'
+  url:            https://twitter.com/ricklesauceur
+
+paginate:         1
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ricklesauceur
