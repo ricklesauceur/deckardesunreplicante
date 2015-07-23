@@ -16,9 +16,15 @@ A slave by his first definition is a person who need to deliver his own strength
 
 Each person in France consume 600 energetic slave per day. 
 
+It means that our way of life, without machine or energetic solution like petroleum and electricity, would need 600 others persons each to be possible.
+
 He also demonstrates the link between energy availability and growth. 
 
 I am personally completely synced with his thinking. 
+
+**Science**.
+
+
 
 
 
