@@ -10,7 +10,9 @@ relative_permalinks: true
 title:            Samy Duc
 tagline:          'French Nerd'
 description:      'Follow <a href="https://twitter.com/ricklesauceur" target="_blank">@ricklesauceur</a>.'
-url:              
+url:             
+
+baseurl:          / 
 
 author:
   name:           'Samy Duc'
