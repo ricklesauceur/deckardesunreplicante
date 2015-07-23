@@ -14,7 +14,7 @@ Each time we perform something, not using our own strength, we consume energy. T
 
 A slave by his first definition is a person who need to deliver his own strength to produce something. 
 
-Each person in France consume 600 energetic slave per day. 
+Each person in France consume 600 energetic slaves per day. 
 
 It means that our way of life, without machine or energetic solution like petroleum and electricity, would need 600 others persons each to be possible.
 
