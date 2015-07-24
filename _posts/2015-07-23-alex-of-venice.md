@@ -4,7 +4,7 @@ title: Alex of Venice
 tags: movies
 ---
 
-![Faults]({{ site.baseurl }}public/images/alexofvenice.jpg)
+![Alex of Venice]({{ site.baseurl }}public/images/alexofvenice.png)
 
 You may think I have an obsession with **Mary Elizabeth Winstead**.
 
