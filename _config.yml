@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Samy Duc
-tagline:          'French Nerd'
+tagline:          'French, GameDev and hacker. Full time dreamer'
 description:      'Follow <a href="https://twitter.com/ricklesauceur" target="_blank">@ricklesauceur</a>.'
 url:             
 
@@ -25,3 +25,7 @@ version:          0.0.1
 
 github:
   repo:           https://github.com/ricklesauceur
+  
+  
+gems:
+  - jekyll-sitemap
