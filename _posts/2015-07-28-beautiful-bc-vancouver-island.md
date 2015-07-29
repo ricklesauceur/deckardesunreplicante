@@ -10,32 +10,32 @@ Departure from Tsawwsannen harbour.
 Having walk to the south of the Island passing By Victoria, I definitely want to see the rest.
 
 *Ferries*
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/1.png)
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/2.png)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/1.JPG)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/2.JPG)
 
 *Victoria*
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/3.png)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/3.JPG)
 
 *Taking a nap at French Beach*
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/4.png)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/4.JPG)
 
 *There is something particular about the fog on the south coast.*
 *It gives you this unique filter, with the sun beams piercing through it.*
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/5.png)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/5.JPG)
 
 *Point Break*
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/6.png)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/6.JPG)
 
 *Port San Juan (I will come back for you).*
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/7.png)
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/8.png)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/7.JPGJPG)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/8.JPG)
 
 *Woods defeated by water, salt and time.*
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/9.png)
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/10.png)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/9.JPG)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/10.JPG)
 
 *Spqce invaders.*
-![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/11.png)
+![Vancouver Island]({{ site.baseurl }}public/images/vancouverisland/11.JPG)
 
 I finally returned by foot from **Nanaimo** to **Horseshoe Bay**.
 
