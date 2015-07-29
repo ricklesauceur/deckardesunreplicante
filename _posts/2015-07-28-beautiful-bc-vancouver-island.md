@@ -44,7 +44,7 @@ She was queuing in line for the bike to embark.
 
 I was a bit overwhelmed, it is a rare feeling that I cannot explain.
 
-Sadly, I was to **shy** to say hello.
+Sadly, I was too **shy** to say hello.
 
 I still think about it, a missed moment that you regret and **fantasized** about.
 
