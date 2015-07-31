@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beautiful BC : Vancouver Island
+title: Beautiful BC - Vancouver Island
 tags: travel
 ---
 

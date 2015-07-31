@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beautiful BC : Celebration of Light in Vancouver
+title: Beautiful BC - Celebration of Light in Vancouver
 tags: party vancouver
 ---
 
