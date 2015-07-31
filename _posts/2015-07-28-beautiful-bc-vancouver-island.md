@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beautiful BC - Vancouver Island
-tags: travel
+tags: travel vancouver
 ---
 
 After a long week-end in Vancouver Island.
