@@ -4,9 +4,9 @@ title: Summer music
 tags: music
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/il9nqWw9W3Y" frameborder="1" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/il9nqWw9W3Y" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1TsVjvEkc4s" frameborder="1" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/1TsVjvEkc4s" frameborder="0" allowfullscreen></iframe>
 
 I am still amazed how the pop music industry is capable of ingest and recycle old fashioned beats and styles.
 
